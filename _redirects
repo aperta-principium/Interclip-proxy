@@ -1,2 +1,2 @@
 /s/*    https://s.put.re/:splat   200
-/r/*    https://iclip.netlify.com/?code=:splat    200
+/r/*    https://iclip.netlify.com/?code=:splat    301
