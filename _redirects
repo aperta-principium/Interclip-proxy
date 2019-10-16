@@ -1,1 +1,2 @@
 /s/*    https://s.put.re/:splat   200
+/r/*    index.html/?code=:splat    200
