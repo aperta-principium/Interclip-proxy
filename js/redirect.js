@@ -4,4 +4,6 @@ var code = url.searchParams.get("code");
 if (code != null) {
   console.log(code);
   location.href = "http://uni.hys.cz/r?c=" + code;
+} else {
+    location.href = "http://uni.hys.cz/";
 }
