@@ -2,7 +2,7 @@ const url_string = window.location.href;
 const url = new URL(url_string);
 const code = url.searchParams.get("code");
 
-if (code != null) {
+if (code !== null) {
   codeAr = code.split("");
   if (codeAr.length == 5) {
     console.log(code);
